@@ -1,0 +1,15 @@
+.article-header {
+    background-color: #000077;
+    color: #FFFFFF;
+    display: flex; 
+    height: 100px;
+    justify-content: space-around;
+}
+
+.mini-logo {
+    height: 30px;
+    width: 30px;
+    border-radius: 100%;
+    background-image: url("лапка\ котика.png");
+    background-size: cover;
+}
